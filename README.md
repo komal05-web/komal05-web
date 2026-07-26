@@ -97,7 +97,7 @@ Interactive Power BI dashboard analyzing sales performance, profitability, and r
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/komal05-web/komal05-web/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/komal05-web/komal05-web/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
